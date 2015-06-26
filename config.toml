@@ -4,5 +4,7 @@ title = "/dev/jacob"
 builddrafts = true
 
 [params]
-	twitter = "https://twitter.com/codeweavr"
+	twitter = "http://twitter.com/codeweavr"
+	github = "http://github.com/jacobbridges"
 	profile = "https://pbs.twimg.com/profile_images/549048966071865344/ozB8Xi12_400x400.png"
+	custom_links = ["about"]

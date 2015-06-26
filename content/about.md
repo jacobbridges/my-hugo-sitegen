@@ -11,7 +11,13 @@ categories = ["pages"]
 I'm a Python enthusiast.
 
 ```python
-import fun
+>> import fun
+>> print fun.__doc__
 
-print "Python is {awesome} {sauce}".format(**fun)
+  Really cool module with two keys:
+    awesome
+    sauce
+
+>> print "Python is {awesome} {sauce}".format(**fun)
+Python is better than Chuck Norris with Morgan Freeman`s voice.
 ```
