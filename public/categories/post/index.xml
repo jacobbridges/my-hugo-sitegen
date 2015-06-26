@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on /dev/jacob</title>
+    <link>http://jacobbridges.github.io/categories/post/</link>
+    <description>Recent content in Post on /dev/jacob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2015 00:06:10 -0400</lastBuildDate>
+    <atom:link href="http://jacobbridges.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>web scraping &#43; queues</title>
+      <link>http://jacobbridges.github.io/post/web-scraping-and-queues/</link>
+      <pubDate>Thu, 25 Jun 2015 00:06:10 -0400</pubDate>
+      
+      <guid>http://jacobbridges.github.io/post/web-scraping-and-queues/</guid>
+      <description>&lt;p&gt;WIP&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
