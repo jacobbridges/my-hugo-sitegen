@@ -3,7 +3,7 @@ baseurl = "http://jacobbridges.github.io/"
 date = "2015-06-25T00:06:10-04:00"
 draft = true
 title = "about"
-tags = ["python"]
+tags = []
 categories = ["pages"]
 
 +++
@@ -11,13 +11,31 @@ categories = ["pages"]
 I'm a Python enthusiast.
 
 ```python
->> import fun
->> print fun.__doc__
-
-  Really cool module with two keys:
-    awesome
-    sauce
-
->> print "Python is {awesome} {sauce}".format(**fun)
-Python is better than Chuck Norris with Morgan Freeman`s voice.
+>> import antigravity
 ```
+
+I'm a webscraping ninja.
+
+```python
+from bs4 import BeautifulSoup
+import requests
+import scrapy
+
+# Something awesome
+```
+
+I'm a data geek.
+
+```python
+import plotly.plotly as py
+data = # ..graph data
+layout = # ..plotly layout
+fig = Figure(data=data, layout=layout)
+py.plot(fig)
+```
+
+<div>
+    <a href="https://plot.ly/~vash0the0stampede/11/" target="_blank" title="Space vs. Spaaaaaace" style="display: block; text-align: center;"><img src="https://plot.ly/~vash0the0stampede/11.png" alt="Space vs. Spaaaaaace" style="max-width: 100%;width: 770px;"  width="770" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="vash0the0stampede:11" src="https://plot.ly/embed.js" async></script>
+</div>
+
