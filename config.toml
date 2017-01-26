@@ -1,10 +1,13 @@
 baseurl = "http://jacobbridges.github.io/"
 languageCode = "en-us"
 title = "/dev/jacob"
-builddrafts = true
+builddrafts = false
+googleAnalytics = "UA-90904674-1"
+theme = "angels-ladder"
 
 [params]
 	twitter = "http://twitter.com/codeweavr"
 	github = "http://github.com/jacobbridges"
 	profile = "https://pbs.twimg.com/profile_images/549048966071865344/ozB8Xi12_400x400.png"
 	custom_links = ["about"]
+	analytics = "UA-90904674-1"

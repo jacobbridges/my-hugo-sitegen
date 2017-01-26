@@ -2,9 +2,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Build the project.
-hugo
+# Build the project. 
+hugo -t angels-ladder
 
+# Go To Public folder
+cd public
 # Add changes to git.
 git add -A
 
@@ -17,4 +19,6 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=public git@github.com:spencerlyon2/hugo_gh_blog.git gh-pages
+
+# Come Back
+cd ..
