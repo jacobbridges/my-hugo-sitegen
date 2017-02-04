@@ -5,6 +5,7 @@ draft = false
 title = "web scraping, threads, and queues"
 tags = ["python"]
 categories = ["post"]
+readtime = "8"
 
 +++
 

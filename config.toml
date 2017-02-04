@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "/dev/jacob"
 builddrafts = false
 googleAnalytics = "UA-90904674-1"
-theme = "angels-ladder"
 
 [params]
 	twitter = "http://twitter.com/codeweavr"
